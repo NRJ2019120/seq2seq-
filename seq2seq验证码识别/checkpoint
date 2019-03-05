@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tensorflow01/oneday/seq2seq\351\252\214\350\257\201\347\240\201\350\257\206\345\210\253/params.ckpt"
+all_model_checkpoint_paths: "/home/tensorflow01/oneday/seq2seq\351\252\214\350\257\201\347\240\201\350\257\206\345\210\253/params.ckpt"
